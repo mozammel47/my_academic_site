@@ -1,6 +1,6 @@
 ---
 title: Mozammel Hoque
-role: Research Assistant
+role: Bioscience Researcher
 bio: ""
 interests: []
 social:
@@ -29,7 +29,7 @@ education:
       year: ""
     - course: MS in Biochemistry and Molecular Biology
       institution: University of Dhaka
-      year: 1
+      year: ""
     - course: BS in Biochemistry and Molecular Biology
       institution: University of Dhaka
       year: ""
