@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Exploiting molecular interaction of Protozoa and pathogenic bacteria  
+        * Analysis of biological omics data
+        * Writing papers
         
   - title: Senior Research Officer
     company: International Centre for Diarrhoeal Disease Research, Bangladesh
