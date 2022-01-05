@@ -1,8 +1,10 @@
 ---
 title: Mozammel Hoque
 role: Bioscience Researcher
+avatar_filename: img_5187.jpg
 bio: ""
-interests: []
+interests:
+  - Omics data Protozoa Bacteriophages
 social:
   - icon: envelope
     icon_pack: fas
