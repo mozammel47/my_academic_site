@@ -16,7 +16,8 @@ experience:
         * Analysing omics data
         * Writing Papers
         * Supervising student
-
+widget: experience
+date_format: Jan 2006
   - title: Senior Research Officer
     company: International Centre for Diarrhoeal Diseases Research, Bangladesh (ICDDR,B)
     company_url: http://www.icddrb.org/
@@ -30,7 +31,8 @@ experience:
         * Wet lab work
         * Analysing genomics data
         * Writing Papers
-        
+widget: experience
+date_format: Jan 2006       
  - title: Research Officer
     company: International Centre for Diarrhoeal Diseases Research, Bangladesh (ICDDR,B)
     company_url: http://www.icddrb.org/
