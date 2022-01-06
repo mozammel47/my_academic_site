@@ -17,7 +17,6 @@ experience:
         * Writing Papers
         * Supervising student
 
-experience:
   - title: Senior Research Officer
     company: International Centre for Diarrhoeal Diseases Research, Bangladesh (ICDDR,B)
     company_url: http://www.icddrb.org/
