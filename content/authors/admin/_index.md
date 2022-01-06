@@ -54,7 +54,7 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I am a bioscience researcher addressing the underlying mechanism of infectious diseases and finding ways to their cure. My research focuses on finding molecular mechanisms of adaptation and resistance in pathogenic bacteria against their predators like protozoa and bacteriophages. I use a range of wet and dry lab techniques to uncover the ever-illusive microbial world.
+I am a bioscience researcher focusing on finding molecular mechanisms of adaptation and resistance in pathogenic bacteria against their predators like protozoa and bacteriophages. I use a range of wet and dry lab techniques to uncover the ever-illusive microbial world.
 
 I am passionate about data analysis, experienced in analysing biological data set using command-line interface, R programming and, a range of other visualisation tools.
 
