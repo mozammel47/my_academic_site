@@ -4,7 +4,10 @@ role: Bioscience Researcher
 avatar_filename: ""
 bio: ""
 interests:
-  - Omics Data   Human pathogens   Protozoa    Bacteriophages
+  - Omics Data
+  - Human pathogens
+  - Protozoa
+  - Bacteriophages
 social:
   - icon: envelope
     icon_pack: fas
@@ -55,6 +58,6 @@ I am a bioscience researcher addressing the underlying mechanism of infectious d
 
 I am passionate about data analysis, experienced in analysing biological data set using command-line interface, R programming and, a range of other visualisation tools.
 
-<!--EndFragment-->.
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
