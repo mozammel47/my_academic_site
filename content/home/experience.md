@@ -32,14 +32,14 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Wet lab work 
+        * Wet lab research 
         * Analysing Omics Data
         * Writing papers
         * Supervising student
   - title: Senior Research Officer
     company: International Centre for Diarrhoeal Diseases Research, Bangladesh (ICDDR,B)
     company_url: http://www.icddrb.org/
-    company_logo: org-gc
+    company_logo: icddrb
     location: Bangladesh
     date_start: '2016-09-01'
     date_end: '2018-01-31'
@@ -48,7 +48,7 @@ experience:
   - title: Research Officer
     company: International Centre for Diarrhoeal Diseases Research, Bangladesh (ICDDR,B)
     company_url: http://www.icddrb.org/
-    company_logo: org-x
+    company_logo: icddrb
     location: Bangladesh
     date_start: '2012-02-01'
     date_end: '2016-08-31'
