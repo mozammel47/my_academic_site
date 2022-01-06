@@ -43,7 +43,7 @@ experience:
     location: Bangladesh
     date_start: 'Sep 2016'
     date_end: 'Jan 2018'
-    description: Worked on understanding cholera disease epidemics exploiting molecular interaction of cholera pathogens and their bacteriophages
+    description: 'Worked on understanding cholera disease epidemics exploiting molecular interaction of cholera pathogens and their bacteriophages'
     
    - title: Research Officer
     company: International Centre for Diarrhoeal Disease Research, Bangladesh
@@ -52,7 +52,7 @@ experience:
     location: Bangladesh
     date_start: 'Feb 2012'
     date_end: 'Aug 2016'
-    description: Worked on understanding cholera disease epidemics exploiting molecular interaction of cholera pathogens and their bacteriophages
+    description: 'Worked on understanding cholera disease epidemics exploiting molecular interaction of cholera pathogens and their bacteriophages'
 
 design:
   columns: '2'
