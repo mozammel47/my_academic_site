@@ -4,7 +4,7 @@ role: Bioscience Researcher
 avatar_filename: ""
 bio: ""
 interests:
-  - Omics data Protozoa Bacteriophages
+  - Omics Data  Protozoa  Bacteriophages
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,6 +21,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mozammel-hoque-3a708756/
+  - display:
+      header: false
+    link: https://orcid.org/ 0000-0002-6014-6955
+    icon_pack: ai
+    icon: orcid
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/M-Mozammel-Hoque-2
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: University of Technology Sydney
     url: https://www.uts.edu.au/
