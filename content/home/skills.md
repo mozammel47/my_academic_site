@@ -22,11 +22,11 @@ feature:
   name: R
 - description: 80%
   icon: linux
-  icon_pack: fas
+  icon_pack: fab
   name: Linux
 - description: 50%
   icon: github
-  icon_pack: fas
+  icon_pack: fab
   name: Github
 
 # Uncomment to use emoji icons.
