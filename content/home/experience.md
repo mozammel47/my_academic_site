@@ -2,19 +2,19 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
+  - title: Senior Research Officer (Sep 2016 to Jan 2018)
+    company: International Centre for Diarrhoeal Diseases Research, Bangladesh (ICDDR,B)
+    company_url: http://www.icddrb.org/
     company_logo: org-gc
     location: California
-    date_start: 2021-01-01
-    date_end: ""
+    date_start: Sep 2016
+    date_end: Jan 2018
     description: |-2
         Responsibilities include:
         
         * Analysing
-        * Modelling
-        * Deploying
+        * Analysing omics data
+        * Writing Papers
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
