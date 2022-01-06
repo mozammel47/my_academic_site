@@ -31,7 +31,7 @@ address:
 coordinates:
   latitude: '33.8832'
   longitude: '151.2005'
-directions: Building CB.04.07.430
+directions: Building: CB.04.07.430
 contact_links:
   - icon: linkedin
     icon_pack: fab
