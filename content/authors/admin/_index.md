@@ -1,7 +1,7 @@
 ---
 title: Mozammel Hoque
 role: Bioscience Researcher
-avatar_filename: ""
+avatar_filename: img_5187.jpg
 bio: ""
 interests:
   - Omics Data
