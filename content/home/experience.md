@@ -8,7 +8,7 @@ experience:
     company_logo: org-gc
     location: California
     date_start: 2016-09-01
-    date_end: Jan 2018-01-01
+    date_end: 2018-01-01
     description: |-2
         Responsibilities include:
         
