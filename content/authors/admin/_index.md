@@ -4,7 +4,7 @@ role: Bioscience Researcher
 avatar_filename: ""
 bio: ""
 interests:
-  - Omics Data  Protozoa  Bacteriophages
+  - Omics Data   Human pathogens   Protozoa    Bacteriophages
 social:
   - icon: envelope
     icon_pack: fas
