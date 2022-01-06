@@ -32,9 +32,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Wet lab work 
+        * Analysing Omics Data
+        * Writing papers
+        * Supervising student
   - title: Senior Research Officer
     company: International Centre for Diarrhoeal Diseases Research, Bangladesh (ICDDR,B)
     company_url: http://www.icddrb.org/
@@ -42,13 +43,9 @@ experience:
     location: Bangladesh
     date_start: '2016-09-01'
     date_end: '2018-01-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying      
-  - title: Senior Research Officer
+    description: Worked on understanding cholera disease epidemics exploiting molecular interaction of cholera pathogens and bacteriophages.
+             
+  - title: Research Officer
     company: International Centre for Diarrhoeal Diseases Research, Bangladesh (ICDDR,B)
     company_url: http://www.icddrb.org/
     company_logo: org-x
