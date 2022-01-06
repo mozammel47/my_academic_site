@@ -15,7 +15,7 @@ design:
     gradient_start: rgba(0, 0, 0, 0)
     gradient_end: rgba(0, 0, 0, 0)
     text_color_light: true
-    image: wellcome1.jpg
+    image: ""
   spacing:
     padding:
       - 20px
