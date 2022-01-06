@@ -7,8 +7,8 @@ experience:
     company_url: http://www.icddrb.org/
     company_logo: org-gc
     location: California
-    date_start: Sep 2016
-    date_end: Jan 2018
+    date_start: 2016-09-01
+    date_end: Jan 2018-01-01
     description: |-2
         Responsibilities include:
         
