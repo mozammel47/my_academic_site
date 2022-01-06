@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: University of Technology Sydney
     company_url: https://www.uts.edu.au/
-    company_logo: org-gc
+    company_logo: uts
     location: Australia
     date_start: '2021-08-16'
     date_end: ''
