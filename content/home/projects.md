@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: Project
+widget: portfolio
 
 # This file represents a page section.
 headless: true
