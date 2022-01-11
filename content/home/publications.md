@@ -29,6 +29,8 @@ Quickly discover relevant content by [filtering publications](./publication/).
 
 <!--StartFragment-->
 
+For Full list Please visit [here](https://scholar.google.com/citations?user=LN2GUkQAAAAJ&hl=en)
+
 1. **Hoque MM**, Noorian P, Espinoza-Vergara G, Manuneedhi Cholan P, Kim M, Rahman MH, et al. (2021) Adaptation to an amoeba host drives selection of virulence-associated traits in *Vibrio cholerae*. The ISME Journal. https://doi.org/10.1038/s41396-021-01134-2
 
 2. Naser IB, Shishir TA, Faruque SN, **Hoque MM**, Hasan A, Faruque SM. (2021) Environmental prevalence of toxigenic *Vibrio cholerae* O1 in Bangladesh coincides with V. cholerae non-O1 non-O139 genetic variants which overproduce autoinducer-2. PLoS ONE 16(7): e0254068. https://doi.org/10.1371/journal.pone.0254068
