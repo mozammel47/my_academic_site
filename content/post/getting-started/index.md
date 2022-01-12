@@ -11,13 +11,13 @@ tags: []
 categories: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://go.nature.com/3mYh1v0)"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
 ---
 <!--StartFragment-->
 
-Behind the paper \[story](https://go.nature.com/3mYh1v0) for our ISME paper in Nature Portfolio Microbiology. 
+Behind the paper \[\*\*story\*\*](https://go.nature.com/3mYh1v0) for our ISME paper in Nature Portfolio Microbiology. 
 
 <!--EndFragment-->
