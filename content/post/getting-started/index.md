@@ -18,6 +18,6 @@ image:
 ---
 <!--StartFragment-->
 
-Behind the paper \[\*\*story\*\*](https://go.nature.com/3mYh1v0) for our ISME paper in Nature Portfolio Microbiology. 
+Behind the paper [Story](https://go.nature.com/3mYh1v0) for our ISME paper in Nature Portfolio Microbiology. 
 
 <!--EndFragment-->
