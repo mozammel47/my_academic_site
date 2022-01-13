@@ -59,5 +59,3 @@ I am a bioscience researcher focusing on finding molecular mechanisms of adaptat
 I am passionate about data analysis, experienced in analysing biological data set using command-line interface, R programming and, a range of other visualisation tools.
 
 <!--EndFragment-->
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
