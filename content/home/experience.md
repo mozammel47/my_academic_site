@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+  - title: Postdoctoral Research Associate
     company: University of Technology Sydney
     company_url: https://www.uts.edu.au/
     company_logo: uts
     location: Australia
-    date_start: '2021-08-16'
+    date_start: '2022-02-17'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,6 +36,21 @@ experience:
         * Analysing Omics Data
         * Writing papers
         * Supervising student
+  - title: Research Assistant
+    company: University of Technology Sydney
+    company_url: https://www.uts.edu.au/
+    company_logo: uts
+    location: Australia
+    date_start: '2021-08-16'
+    date_end: '2022-02-16'
+    description: |2-
+        Responsibilities include:
+        
+        * Wet lab research 
+        * Analysing Omics Data
+        * Writing papers
+        * Supervising student
+
   - title: Senior Research Officer
     company: International Centre for Diarrhoeal Diseases Research, Bangladesh (ICDDR,B)
     company_url: http://www.icddrb.org/
